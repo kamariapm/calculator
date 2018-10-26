@@ -1,0 +1,24 @@
+#textField{
+margin-left: 40%;
+border:  black;
+margin-bottom: 5%
+}
+
+#calculatorNumbers{
+    margin-left: 20%;
+    margin-right: 20%;
+    /* text-align: center; */
+   
+}
+
+#row1{
+    margin-bottom: 1%
+}
+
+#row2{
+    margin-bottom: 1%
+}
+
+#row3{
+    margin-bottom: 1%
+}
